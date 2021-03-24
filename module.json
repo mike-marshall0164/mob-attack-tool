@@ -11,6 +11,6 @@
 	"esmodules": [
 		"scripts/mobAttack.js"
 	],
-	"manifest": "https://raw.githubusercontent.com/mike-marshall0164/mob-attack-tool/main/module.json",
+	"manifest": "https://raw.githubusercontent.com/mike-marshall0164/mob-attack-tool/mm-local/module.json",
 	"download": "https://github.com/mike-marshall0164/mob-attack-tool/releases/download/v0.1.11/module.zip"
 }
